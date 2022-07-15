@@ -83,7 +83,9 @@ body{
     font-weight: 500;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: var(--secondary-text-color)
+    color: var(--secondary-text-color);
+    text-decoration:none;
+    list-style:none;
 }
 
 .contacts-link:hover,
